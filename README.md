@@ -107,12 +107,3 @@ CREATE TABLE entradas_saida_estoque (
 - **Autenticação** (opcional): JWT (JSON Web Token)
 
 ---
-
-### Próximos Passos
-
-1. **Configuração do Banco de Dados**: Criar as tabelas `produtos` e `entradas_saida_estoque` no MySQL.
-2. **Desenvolvimento do Backend**: Criar a API RESTful usando Node.js e Express para gerenciar produtos e operações de estoque.
-3. **Desenvolvimento do Frontend**: Criar as páginas de cadastro, listagem e controle de estoque em React.js com estilo usando Tailwind.
-4. **Testes e Validação**: Testar as funcionalidades do sistema, como a entrada/saída de estoque e a manipulação de produtos.
-
-Agora, que já temos os requisitos e uma ideia geral do sistema, qual parte você gostaria de começar a desenvolver primeiro? Podemos seguir passo a passo!
